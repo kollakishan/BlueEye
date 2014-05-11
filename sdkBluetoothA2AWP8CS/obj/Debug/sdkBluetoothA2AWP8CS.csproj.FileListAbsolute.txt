@@ -1,0 +1,16 @@
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\Bin\Debug\sdkBluetoothA2AWP8CS.dll
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\Bin\Debug\sdkBluetoothA2AWP8CS.pdb
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\Bin\Debug\AppManifest.xaml
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\Bin\Debug\sdkBluetoothA2AWP8CS_Debug_AnyCPU.xap
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\obj\Debug\App.g.cs
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\obj\Debug\MainPage.g.cs
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\obj\Debug\sdkBluetoothA2AWP8CS.g.resources
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\obj\Debug\sdkBluetoothA2AWP8CS.Resources.AppResources.resources
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\obj\Debug\sdkBluetoothA2AWP8CS.csproj.GenerateResource.Cache
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\obj\Debug\sdkBluetoothA2AWP8CS.dll
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\obj\Debug\sdkBluetoothA2AWP8CS.pdb
+C:\Users\gragon\Desktop\C#\sdkBluetoothA2AWP8CS\obj\Debug\XapCacheFile.xml
